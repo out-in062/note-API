@@ -1,8 +1,6 @@
-
-package com.example.memoapi.dto;
+package com.example.note_api.dto;
 
 import lombok.Data;
-
 import java.time.LocalDateTime;
 
 @Data
